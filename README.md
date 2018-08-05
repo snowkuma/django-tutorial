@@ -10,4 +10,4 @@ The tutorial is split into 7 parts.
 
 ## P3 - Writing more views, templates, render
 
-## P4 - Simple form
+## P4 - Simple form, generic views
