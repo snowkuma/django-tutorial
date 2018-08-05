@@ -1,6 +1,6 @@
 # Django-tutorial - (polls app)
 
-Following the basic tutorial from the Django [link](https://docs.djangoproject.com/en/2.1/intro/tutorial01/)
+Following the basic tutorial from the Django [basic tutorial](https://docs.djangoproject.com/en/2.1/intro/tutorial01/)
 
 The tutorial is split into 7 parts of the course of which we create a simple
 poll application.  The tutorial is quite a whistlestop tour, so further study 
