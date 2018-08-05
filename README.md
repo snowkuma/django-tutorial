@@ -16,3 +16,12 @@ The tutorial is split into 7 parts.
 
 Importance of testing.  Test, driven development.  Writing test classes.
 
+## P6 - Customize your apps look and feel
+
+Created a static folder and linked to a css file inside it.
+
+## P7 - Customising the Admin
+
+Customised forms, added choices to question creation, added a filter and 
+search box.  Override default admin template.
+
